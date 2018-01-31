@@ -2,7 +2,6 @@ const formatNumber = require('./formatNumber')
 
 const configQuartersCount = 4
 const configQuarterWeeksCount = 12
-const configEstimatedWeeklyGrowth = 5 // percent
 const configAnnualInflationRate = 10 // percent
 
 
